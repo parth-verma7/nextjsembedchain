@@ -1,0 +1,30 @@
+body{
+    background: rgb(127, 127, 233);
+    text-align: center;
+    color: white;
+}
+
+.indexHeading{
+    font-size: 60px;
+}
+
+.btn{
+    margin-top: 15px;
+    width: 70px;
+    height: 35px
+}
+
+.labelText{
+    font-size: 20px;
+    align-items: center;
+}
+
+.textArea{
+    width: 350px;
+    align-items: center;
+    height:50px
+}
+
+.finalAnswer{
+    align-items: center;
+}
