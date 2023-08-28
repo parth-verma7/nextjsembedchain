@@ -2,7 +2,7 @@ from flask import Flask, redirect, render_template, url_for, request, session, j
 import os
 from embedchain import App
 from flask_cors import CORS
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API_KEY"
 elon_bot = App()
 
 app = Flask(__name__)
